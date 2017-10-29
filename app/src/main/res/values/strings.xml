@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">iTunesApi</string>
+    <string name="error_text">No Internet available</string>
+</resources>

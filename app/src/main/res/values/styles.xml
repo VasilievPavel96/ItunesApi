@@ -1,0 +1,19 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.Design.Light.NoActionBar"/>
+
+    <style name="PrimaryText">
+        <item name="android:textSize">20sp</item>
+        <item name="android:typeface">normal</item>
+        <item name="android:textColor">#000</item>
+        <item name="android:alpha">0.87</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:ellipsize">end</item>
+    </style>
+
+    <style name="SecondaryText" parent="PrimaryText">
+        <item name="android:alpha">0.54</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+</resources>
